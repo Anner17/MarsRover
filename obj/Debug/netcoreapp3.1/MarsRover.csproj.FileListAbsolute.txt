@@ -1,0 +1,13 @@
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csprojAssemblyReference.cache
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache
