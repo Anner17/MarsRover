@@ -12,6 +12,11 @@ namespace MarsRover.Models
         public int direction { get; set; }
 
         public Rover() { }
+        public Rover(int _x, int _y, int _dir) {
+            x = _x;
+            y = _y;
+            direction = _dir;
+        }
 
         public void Move(string movement)
         {
