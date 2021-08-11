@@ -50,7 +50,7 @@ namespace MarsRover
                     rovers.Add(rover);
                 }
             }
-            catch (ArgumentNullException e)
+            catch (ArgumentNullException)
             {
                 Console.WriteLine("Movement invalid");
             }
