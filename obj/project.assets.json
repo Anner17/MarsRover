@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Andres\\Proyectos Personales\\Entrevistas\\MarsRover\\MarsRover.csproj",
+      "projectUniqueName": "D:\\MarsRover\\MarsRover.csproj",
       "projectName": "MarsRover",
-      "projectPath": "D:\\Andres\\Proyectos Personales\\Entrevistas\\MarsRover\\MarsRover.csproj",
+      "projectPath": "D:\\MarsRover\\MarsRover.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Andres\\Proyectos Personales\\Entrevistas\\MarsRover\\obj\\",
+      "outputPath": "D:\\MarsRover\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

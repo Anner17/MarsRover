@@ -11,3 +11,16 @@ D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\Mar
 D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
 D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
 D:\Andres\Proyectos Personales\Entrevistas\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+D:\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csprojAssemblyReference.cache
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+D:\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache

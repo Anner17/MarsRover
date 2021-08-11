@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bpC/vP/YbrtqlDtcX39NGRcPXoHZ03l9f8MuXcWn3AcV+v9j+j15q/+MjK0en1u0ISNuBoP5hGN2ZvAYUOykwA==",
+  "dgSpecHash": "rZjTruxXtgJAtB0PvZ3ky6wQ9JzDAO0zwuW5FTR8kkqoscD7DoUft9OhNhwB6rplLR1O9JPMoRKY66wkfQN6pg==",
   "success": true,
-  "projectFilePath": "D:\\Andres\\Proyectos Personales\\Entrevistas\\MarsRover\\MarsRover.csproj",
+  "projectFilePath": "D:\\MarsRover\\MarsRover.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
